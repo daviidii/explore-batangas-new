@@ -1,0 +1,350 @@
+[
+    {
+        "nasugbu": [
+            {
+                "name": "Fortune Island",
+                "district": "District 1: Nasugbu",
+                "photo" : "../Assets/resorts/nasugbu/fortune-island-small.jpg",
+                "photo2": "../Assets/resorts/nasugbu/fortune2-small.jpg",
+                "info": "Originally known as Batumbalani Island, the island was revered as a sacred location by the Tagalog people. After a group of investors constructed a resort on the island in the 1990s, the island was later given the new name Fortune Island. Due to financial issues, the resort, which was intended to be an opulent retreat for the wealthy and privileged, was short-lived.",
+                "type": ["all","historical","luxury","family"],
+                "id": "fortune"
+            },
+            {
+                "name": "Hamilo Coast",
+                "district": "District 1: Nasugbu",
+                "photo" : "../Assets/resorts/nasugbu/nasugbu1-small.jpg",
+                "photo2": "../Assets/resorts/nasugbu/pico1-small.jpg",
+                "info": "The construction of Hamilo Coast began in the late 1990s, when the SM Group, one of the Philippines' major conglomerates, purchased a 5,900-hectare property along Nasugbu's coastline and its development began in 2003, with a master plan that includes luxury villas, condominiums, hotels, and a variety of recreational and leisure facilities.",
+                "type": ["all","luxury","family"],
+                "id": "hamilo"
+            },
+            {
+                "name": "Mount Batulao",
+                "district": "District 1: Nasugbu",
+                "photo" : "../Assets/resorts/nasugbu/mount2-small.jpg",
+                "photo2" : "../Assets/resorts/nasugbu/mount3-small.jpg",
+                "info": "Mount Batulao is a popular hiking destination located in Nasugbu, Batangas, Philippines. The history of Mount Batulao dates back to pre-colonial times, when the mountain was considered a sacred site by the local Tagalog people, who believed it to be the dwelling place of spirits and deities.",
+                "type": ["all","historical","adventure"],
+                "id": "batulao"
+            },
+            {
+                "name": "El Cocinero",
+                "district": "District 1: Nasugbu",
+                "photo" : "../Assets/Restos/Nasugbu/el-cocinero-food2.jpg",
+                "photo2" : "../Assets/Restos/Nasugbu/el-cocinero-food1.jpg",
+                "info": "The Best Paella in the Philippines! A chef born in Nasugbu, Batangas but the expertise of mediterranean cuisine was harvested in Ibiza,Spain for more than 10years. Visit us and you will never regret your travel. A heavenly food that you will crave.",
+                "type": ["all","restaurant","family"],
+                "id": "cocinero"
+            },
+            {
+                "name": "La Locanda Ristorante Pizzeria",
+                "district": "District 1: Nasugbu",
+                "photo" : "../Assets/Restos/Nasugbu/la-laconda-food1.jpg",
+                "photo2" : "../Assets/Restos/Nasugbu/la-laconda-food6.jpg",
+                "info": "",
+                "type": ["all","restaurant","luxury","family"],
+                "id": "locanda"
+            },
+            {
+                "name": "Il Jardineto",
+                "district": "District 1: Nasugbu",
+                "photo" : "../Assets/Restos/Nasugbu/jardineto-food1.jpg",
+                "photo2" : "../Assets/Restos/Nasugbu/jardineto-food2.jpg",
+                "info": "Creative dining with fresh, natural ingredients is made lovelier at Il Jardineto by an outdoor beach setting. This is the place if you want to sink your teeth into some authentic Italian pizza and pasta dishes.",
+                "type": ["all","luxury","restaurant"],
+                "id": "jardineto"
+            }
+        ]
+    },
+    {
+        "lobo": [
+            {
+                "name": "Malabrigo Lighthouse",
+                "district": "District 2: Lobo",
+                "photo" : "../Assets/resorts/lobo/lobo-city1-small.jpg",
+                "photo2" : "../Assets/resorts/lobo/light-house2-small.jpg",
+                "info": "The Malabrigo Lighthouse is a historic lighthouse in the Philippine town of Lobo, Batangas. During the Spanish colonial period, the lighthouse was built in the late 1800s to guide ships entering and leaving Balayan Bay.",
+                "type": ["all","historical","family"],
+                "id": "lighthouse"
+            },
+            {
+                "name": "Simbahang Bato",
+                "district": "District 2: Lobo",
+                "photo" : "../Assets/resorts/lobo/bato2-small.jpg",
+                "photo2" : "../Assets/resorts/lobo/bato3-small.jpg",
+                "info": "Simbahan Bato played an important role in the history of the region, serving as a center of religious and social activity for the local community. The church also provided shelter and refuge for local residents during times of conflict and disaster, including the Philippine Revolution and World War II.",
+                "type": ["all","historical", "family"],
+                "id": "bato"
+            },
+            {
+                "name": "Ulupong Falls",
+                "district": "District 2: Lobo",
+                "photo" : "../Assets/resorts/lobo/ulupong-small.jpg",
+                "photo2" : "../Assets/resorts/lobo/ulupong1.jpg",
+                "info": " Ulupong Falls is a natural attraction in the town of Lobo, Batangas, Philippines. The falls are located on the Malinao River, which runs through town and is famed for its clear, calm waters and picturesque splendour.",
+                "type": ["all","historical", "family"],
+                "id": "ulupongg"
+            },
+            {
+                "name": "Josephine's Place",
+                "district": "District 2: Lobo",
+                "photo" : "../Assets/Restos/Lobo/josephine-food4.jpg",
+                "photo2" : "../Assets/Restos/Lobo/josephine-food1.jpg",
+                "info": "",
+                "type": ["all","restaurant","family"],
+                "id": "josephine"
+            },
+            {
+                "name": "De Guia's Lomi Hauz & Eatery",
+                "district": "District 2: Lobo",
+                "photo" : "../Assets/Restos/Lobo/de-guia-food2.jpg",
+                "photo2" : "../Assets/Restos/Lobo/de-guia1.jpg",
+                "info": "",
+                "type": ["all","restaurant","family"],
+                "id": "de-guia"
+            },
+            {
+                "name": "Ungkot",
+                "district": "District 2: Lobo",
+                "photo" : "../Assets/Restos/Lobo/ungkot-food1.jpg",
+                "photo2" : "../Assets/Restos/Lobo/ungkot-food2.jpg",
+                "info": "Ungkot is a restaurant in a small town Batangas. Ungkot is a Batangueno word that means hang-out(tambay). They offer a vibe and feels of hanging out in a place that is comfortable with nice ambience. Modern and rustic is the combination they put in place. A place where you can hang out with your favorite group of friends, while pigging out and having few drinks. Thus, Ungkot Kain Barik.",
+                "type": ["all","restaurant","luxury","family"],
+                "id": "ungkot"
+            }
+        ]
+    },
+    {
+        "Tanauan": [
+            {
+                "name": "Marian Orchard",
+                "district": "District 3: Tanauan",
+                "photo" : "../Assets/resorts/tanauan/orchard1-small.jpg",
+                "photo2" : "../Assets/resorts/tanauan/orchard-small.jpg",
+                "info": "Marian Orchard is a Catholic pilgrimage destination in the Philippine town of Balete, Tanauan City, Batangas. The site is dedicated to the Blessed Virgin Mary and contains a diverse collection of plants, flowers, and fruit trees. ",
+                "type": ["all","historical","family"],
+                "id": "marian"
+            },
+            {
+                "name": "Our Lady of the Most Holy Rosary Parish Church",
+                "district": "District 3: Tanauan",
+                "photo" : "../Assets/resorts/tanauan/tanuan2-small.jpg",
+                "photo2" : "../Assets/resorts/tanauan/rosary1-small.jpg",
+                "info": " The Tanauan Church was built during the Spanish colonial period in 1750. The Augustinian friars, who were in charge of evangelism in the area, oversaw the construction of the church. The church was finished in 1770 and was regarded as one of the most magnificent in the Philippines at the time.",
+                "type": ["all","historical", "family"],
+                "id": "holy-rosary"
+            },
+            {
+                "name": "Mount Makiling",
+                "district": "District 3: Tanauan",
+                "photo" : "../Assets/resorts/tanauan/makiling-small.jpg",
+                "photo2" : "../Assets/resorts/tanauan/makiling2-small.jpg",
+                "info": " Mount Makiling is a dormant volcano in the provinces of Laguna and Batangas on the Philippine island of Luzon. The mountain is named after Maria Makiling, a legendary character who is claimed to reside in the mountain and protect its woods and wildlife.",
+                "type": ["all","adventure","historical"],
+                "id": "makiling"
+            },
+            {
+                "name": "Victorina's Modern Restaurant And Bar",
+                "district": "District 3: Tanauan",
+                "photo" : "../Assets/Restos/Tanauan/Victoria2.jpg",
+                "photo2" : "../Assets/Restos/Tanauan/Victoria13.jpg",
+                "info": "Experience your favorite Filipino Dishes with a modern twist at Victorina's. Let us take you back in time with our carefully curated menu highlighting everything Filipino.",
+                "type": ["all","restaurant","family"],
+                "id": "victorina"
+            },
+            {
+                "name": "El Cuartel Restaurant and Bar",
+                "district": "District 3: Tanauan",
+                "photo" : "../Assets/Restos/Tanauan/el-cuartel1.jpg",
+                "photo2" : "../Assets/Restos/Tanauan/el-cuartel-food2.jpg",
+                "info": "",
+                "type": ["all","restaurant","family"],
+                "id": "cuartel"
+            },
+            {
+                "name": "Bambu Batangas Cafe",
+                "district": "District 3: Tanauan",
+                "photo" : "../Assets/Restos/Tanauan/bambu2.jpg",
+                "photo2" : "../Assets/Restos/Tanauan/bambu.jpg",
+                "info": "Bambú is an event place, cafe, resort offering Asian and American cuisine by Chef Abe Arayata. A private modernized farm built for the perfect outdoor and indoor dining experience. Surrounded by bamboo trees where family, friends & loved ones can enjoy the spacious ambiance and the fresh air. The perfect getaway for any special occasion.",
+                "type": ["all","restaurant","family"],
+                "id": "bambu"
+            }
+        ]
+    },
+    {
+        "San Juan": [
+            {
+                "name": "Naambon Falls",
+                "district": "District 4: San Juan",
+                "photo" : "../Assets/resorts/san juan/naambon-small.jpg",
+                "photo2" : "../Assets/resorts/san juan/naambon2-small.jpg",
+                "info": "Twas tradithe history of Naambon Falls dates back to ancient times, as the area ionally inhabited by the Tagalog people, who considered the waterfall a sacred site. As tourism in San Juan developed in the late 20th and early 21st centuries, Naambon Falls began to attract more visitors from outside the immediate area.",
+                "type": ["all","adventure","family"],
+                "id": "naambon"
+            },
+            {
+                "name": "Mangrove Cruise",
+                "district": "District 4: San Juan",
+                "photo" : "../Assets/resorts/san juan/forest2-small.jpg",
+                "photo2" : "../Assets/resorts/san juan/forest1-small.jpg",
+                "info": "In San Juan, Batangas, mangrove cruises are a relatively recent growth in the local tourism sector. Local government officials and environmental organizations started to appreciate San Juan's huge mangrove forests as an ecological resource and prospective tourist destination in the early 2000s. ",
+                "type": ["all","adventure", "family"],
+                "id": "mangrove"
+            },
+            {
+                "name": "Virgin Beach",
+                "district": "District 4: San Juan",
+                "photo" : "../Assets/resorts/san juan/virgin-beach-2.jpg",
+                "photo2" : "../Assets/resorts/san juan/virgin-beach-small.jpg",
+                "info": "The resort's beginnings can be traced to the early 1980s, when a group of friends from Manila decided to construct a vacation home after learning about the beach's seclusion. A businessman, a restaurateur, and a fashion designer Theyre among the participants. The group expanded the property over time and began renting out the vacation property to family and friends.",
+                "type": ["all","luxury", "family"],
+                "id": "laiya"
+            },
+            {
+                "name": "Choi Garden",
+                "district": "District 4: San Juan",
+                "photo" : "../Assets/Restos/san Juan/choi2.jpg",
+                "photo2" : "../Assets/Restos/san Juan/choi-food3.jpg",
+                "info": "Choi Garden is a proposed Chinese restaurant located at Greenhills, San Juan City. It provides and offers authentic Cantonese food",
+                "type": ["all","restaurant","family","luxury"],
+                "id": "choi"
+            },
+            {
+                "name": "Arya Persian Restaurant",
+                "district": "District 4: San Juan",
+                "photo" : "../Assets/Restos/san Juan/arya2.jpg",
+                "photo2" : "../Assets/Restos/san Juan/arya-food4.jpg",
+                "info": "",
+                "type": ["all","restaurant","family","luxury"],
+                "id": "arya"
+            },
+            {
+                "name": "Cafeno",
+                "district": "District 4: San Juan",
+                "photo" : "../Assets/Restos/san Juan/cafeno-food3.jpg",
+                "photo2" : "../Assets/Restos/san Juan/cafeno3.jpg",
+                "info": "Established in 2006 is uniquely located in a heritage ancestral house in San Juan, Batangas. They serve premium locally-brewed coffee, creative menu offerings and secret menu desserts. They also offer frozen goods and premium gourmet bottles for take home.",
+                "type": ["all","restaurant","family","luxury"],
+                "id": "cafeno"
+            }
+        ]
+    },
+    {
+        "Batangas": [
+            {
+                "name": "Matabungkay Beach",
+                "district": "District 5: Batangas",
+                "photo" : "../Assets/resorts/batangas city/matabungkay-small.jpg",
+                "photo2" : "../Assets/resorts/batangas city/matabungkay2-small.jpg",
+                "info": "atabungkay Beach has a long history dating back to the Spanish colonial period, when the Tagalog people used it as a fishing hamlet. The term 'Matabungkay' is derived from the Tagalog words 'bungo' (skull) and 'mata' (eye). According to legend, the beach was called after a party of fisherman who discovered a skull with a big eye socket on the sand.",
+                "type": ["all","luxury","family"],
+                "id": "matabungkay"
+            },
+            {
+                "name": "Taal Volcano and Lake",
+                "district": "District 5: Batangas",
+                "photo" : "../Assets/resorts/batangas city/taal-small.jpg",
+                "photo2" : "../Assets/resorts/batangas city/taal2-small.jpg",
+                "info": "Taal Volcano and Lake have a long history dating back thousands of years, when the volcano was produced by a series of eruptions. The lake itself is thought to have originated some 5,000 years ago, following a huge eruption that left a big crater that was eventually filled with water.",
+                "type": ["all","historical","adventure", "family"],
+                "id": "taal"
+            },
+            {
+                "name": "Basilica Minor of Immaculate Conception",
+                "district": "District 5: Batangas",
+                "photo" : "../Assets/resorts/batangas city/basillica-small.jpg",
+                "photo2" : "../Assets/resorts/batangas city/batangas-city5-small.jpg",
+                "info": "The church is one of the country's oldest and most beautiful, having a rich history reaching back to the Spanish colonial period. The church was established in 1581, shortly after Spanish invaders arrived in the Philippines.",
+                "type": ["all","historical","family"],
+                "id": "basilica"
+            },
+            {
+                "name": "Share Cafe",
+                "district": "District 5: Batangas",
+                "photo" : "../Assets/Restos/Batangas City/share-cafe-food1.jpg",
+                "photo2" : "../Assets/Restos/Batangas City/share-cafe-food2.jpg",
+                "info": "A place where friends, families and co-workers can dine daily without breaking the bank. 48 pesos express meals are offered in four different varieties daily. These hearty express meals are served within five minutes.",
+                "type": ["all","restaurant","family"],
+                "id": "share"
+            },
+            {
+                "name": "Jovita Cafe",
+                "district": "District 5: Batangas",
+                "photo" : "../Assets/Restos/Batangas City/jovita1.jpg",
+                "photo2" : "../Assets/Restos/Batangas City/jovita-coffee1.jpg",
+                "info": "Jovita Cafe is a one stop coffee shop located in the heart of batangas city. Just beside travelers inn. They offer All-Day-Breakfast, Pasta's, Salads, Soups, Bagel & Baguette Sandwiches, Coffee, JFrappes, Milk Tea's, Tea's & Fruit Tea's.",
+                "type": ["all","restaurant","family"],
+                "id": "jovita"
+            },
+            {
+                "name": "He Brews Cafe",
+                "district": "District 5: Batangas",
+                "photo" : "../Assets/Restos/Batangas City/hebrews1.jpg",
+                "photo2" : "../Assets/Restos/Batangas City/hebrews-coffee1.jpg",
+                "info": "He Brews Cafe is a place for everyone. They serve a large variety of food and drinks that will suit your taste preference. They have ice blended coffee, different hot or cold drinks, pasta, sandwiches, donuts and many more!",
+                "type": ["all","restaurant","family"],
+                "id": "hebrew"
+            }
+        ]
+    },
+    {
+        "Lipa": [
+            {
+                "name": "San Sebastian Cathedral",
+                "district": "District 6: Lipa",
+                "photo" : "../Assets/resorts/lipa/san-sebastian3-small.jpg",
+                "photo2" : "../Assets/resorts/lipa/lipa1-small.jpg",
+                "info": "Throughout its history, the San Sebastian Cathedral has played a major part in Lipa's religious and cultural life. The cathedral has witnessed many historic events, including the Philippine Revolution against Spanish control and the Japanese occupation of the Philippines during World War II.",
+                "type": ["all","historical","family"],
+                "id": "sebastian"
+            },
+            {
+                "name": "Casa de Segunda",
+                "district": "District 6: Lipa",
+                "photo" : "../Assets/resorts/lipa/casa4-small.jpg",
+                "photo2" : "../Assets/resorts/lipa/casa2-small.jpg",
+                "info": "The home is regarded as one of the finest specimens of colonial architecture in the country, and the National Historical Commission of the Philippines has designated it as a national historical landmark. ",
+                "type": ["all","historical", "family"],
+                "id": "segunda"
+            },
+            {
+                "name": "Mount Malarayat Gold & Country Club",
+                "district": "District 6: Lipa",
+                "photo" : "../Assets/resorts/lipa/malarayat-small.jpg",
+                "photo2" : "../Assets/resorts/lipa/malarayat3-small.jpg",
+                "info": "Has a variety of services and facilities for its members and guests, including a clubhouse, swimming pool, tennis courts, and restaurants. Visitors can also enjoy a range of outdoor activities at the club, such as hiking, biking, and horseback riding.",
+                "type": ["all","luxury"],
+                "id": "malayarat-g-c"
+            },
+            {
+                "name": "Casa Marikit",
+                "district": "District 6: Lipa",
+                "photo" : "../Assets/Restos/Lipa/casa3.jpg",
+                "photo2" : "../Assets/Restos/Lipa/casa1.jpg",
+                "info": "Casa Marikit Ristorante Italiano is an authentic Italian restaurant in Lipa City. It's the lovechild and the very first project of the husband and wife team of TJ and Michelle Fabie. Named after their daughter, Marikit, it’s a family-friendly restaurant thanks to its casual dining setting.",
+                "type": ["all","restaurant","family", "luxury"],
+                "id": "marikit"
+            },
+            {
+                "name": "Lipa Grille Restaurant & Co",
+                "district": "District 6: Lipa",
+                "photo" : "../Assets/Restos/Lipa/grille1.jpg",
+                "photo2" : "../Assets/Restos/Lipa/grille-menu1.jpg",
+                "info": "",
+                "type": ["all","restaurant","family"],
+                "id": "lipa-grille-rco"
+            },
+            {
+                "name": "D'Ursi Pizza Autentica Pizzeria Napoletana",
+                "district": "District 6: Lipa",
+                "photo" : "../Assets/Restos/Lipa/napoletana1.jpg",
+                "photo2" : "../Assets/Restos/Lipa/napoletana-food3.jpg",
+                "info": "The kitchen of D’ursi is headed by Chef Matteo D'ursi. With Chef Matteo tracing his roots to Italy and having more than a decade of experience cooking Italian food (he had his own Italian restaurant back home in Italy), the result is authentic Italian food.",
+                "type": ["all","restaurant","family", "luxury"],
+                "id": "dursi"
+            }
+        ]
+    }
+]
